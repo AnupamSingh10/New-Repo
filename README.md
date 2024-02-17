@@ -1,4 +1,4 @@
 # New-Repo
-Learning how to use git.
+<h3 Learning how to use git.>
 <br>
 My first update.
